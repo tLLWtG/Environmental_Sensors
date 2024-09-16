@@ -6,17 +6,21 @@ This is a DIY device for monitoring ambient temperature, humidity, CO2, and TVOC
 
 软件部分基于 STM32 标准库（Standard Peripheral Library）开发，其中用到的单总线双向通信和 I2C 通信均使用软件模拟实现。工程配置参考[江协科技](https://jiangxiekeji.com/)。
 
+* **实物图**
+  
+  ![](./docs/image/Final.jpg)
+
 ## Schematic Diagram and PCB
 
-* 原理图
+* **原理图**
 
   ![](./docs/image/schematic.png)
 
-* PCB 正面
+* **PCB 正面**
   
   ![](./docs/image/PCB1.png)
 
-* PCB 背面
+* **PCB 背面**
 
   ![](./docs/image/PCB2.png)
 
@@ -24,8 +28,7 @@ This is a DIY device for monitoring ambient temperature, humidity, CO2, and TVOC
 
 * **STM32F103C8T6 最小系统板**
   
-  > 最常见那种的 stm32 开发板。
-  ![](./docs/image/stm32f103c8t6.png)
+  > 最常见那种的 stm32 开发板，见前面的实物图。
 
 * **DHT11**
   
