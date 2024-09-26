@@ -8,21 +8,37 @@ This is a DIY device for monitoring ambient temperature, humidity, CO2, and TVOC
 
 * **实物图**
   
+  <details><summary>点击展开</summary>
+    
   ![](./docs/image/Final.jpg)
+  
+  </details>
 
 ## Schematic Diagram and PCB
 
 * **原理图**
-
+  
+  <details><summary>点击展开</summary>
+    
   ![](./docs/image/schematic.png)
 
+  </details>
+
 * **PCB 正面**
-  
+
+  <details><summary>点击展开</summary>
+    
   ![](./docs/image/PCB1.png)
+
+  </details>
 
 * **PCB 背面**
 
+  <details><summary>点击展开</summary>
+    
   ![](./docs/image/PCB2.png)
+
+  </details>
 
 ## Main Components
 
